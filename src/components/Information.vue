@@ -15,11 +15,11 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: $color-secondary;
+  background-color: #3c3c3e;
   height: 50vh;
 
   &__text {
-    color: $color-primary;
+    color: rgb(245, 150, 121);
     font-family: "Montserrat", "Open Sans", "Arial", sans-serif;
     font-weight: 400;
 
@@ -33,7 +33,7 @@
 
     a {
       text-decoration: none;
-      color: $color-primary;
+      color: rgb(245, 150, 121);
       font-size: 16px;
     }
   }

@@ -35,7 +35,7 @@ export default {
   text-align: center;
 
   height: 50vh;
-  background-color: $color-primary;
+  background-color: rgb(245, 150, 121);
   padding: 0 1rem;
 
   &__logo {
@@ -47,7 +47,7 @@ export default {
     justify-content: center;
 
     &--tag {
-      color: $color-secondary;
+      color: #3c3c3e;
       line-height: 2.4;
       margin: 8px 0;
       font-size: 20px;
@@ -65,7 +65,7 @@ export default {
     text-align: center;
 
     height: 50vh;
-    background-color: $color-primary;
+    background-color: rgb(245, 150, 121);
     padding: 0 1rem;
 
     &__logo {
@@ -78,7 +78,7 @@ export default {
       justify-content: space-around;
 
       &--tag {
-        color: $color-secondary;
+        color: #3c3c3e;
         line-height: 2.4;
         margin: 8px 0;
         font-size: 20px;

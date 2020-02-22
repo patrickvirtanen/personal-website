@@ -17,12 +17,12 @@
 .title-page {
   display: flex;
   flex-direction: column;
-  background-color: $color-primary;
+  background-color: rgb(245, 150, 121);
   height: 50vh;
 }
 .logo {
   width: 60%;
-  background-color: $color-primary;
+  background-color: rgb(245, 150, 121);
 
   animation: moveIn 1s linear;
   animation-fill-mode: backwards;
@@ -37,13 +37,13 @@
     font-family: "Montserrat";
     font-weight: 700;
     font-size: 1rem;
-    color: $color-secondary;
+    color: #3c3c3e;
   }
   &__sub-title {
     font-family: "Montserrat";
     font-weight: 400;
     font-size: 1.5rem;
-    color: $color-secondary;
+    color: #3c3c3e;
   }
 }
 
@@ -62,12 +62,12 @@
   .title-page {
     display: flex;
     flex-direction: column;
-    background-color: $color-primary;
+    background-color: rgb(245, 150, 121);
     height: 50vh;
   }
   .logo {
     width: 10%;
-    background-color: $color-primary;
+    background-color: rgb(245, 150, 121);
 
     animation: moveIn 1s linear;
     animation-fill-mode: backwards;

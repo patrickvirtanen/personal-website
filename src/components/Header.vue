@@ -31,7 +31,7 @@ export default {
   justify-content: space-between;
 
   height: 10vh;
-  background-color: $color-primary;
+  background-color: rgb(245, 150, 121);
   padding: 0 1rem;
 
   &__logo {
@@ -45,7 +45,7 @@ export default {
     &--icon {
       height: 100%;
       width: 10%;
-      color: $color-secondary;
+      color: #3c3c3e;
       transition: all 1s;
 
       &:hover {
@@ -69,7 +69,7 @@ export default {
       &--icon {
         height: 100%;
         width: 10%;
-        color: $color-secondary;
+        color: #3c3c3e;
         transition: all 1s;
 
         &:hover {

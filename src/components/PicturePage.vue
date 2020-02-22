@@ -11,7 +11,7 @@
 .picture-page {
   display: flex;
   flex-direction: column;
-  background-color: $color-secondary;
+  background-color: #3c3c3e;
 
   &--photo {
     width: 100%;
