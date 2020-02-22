@@ -5,7 +5,8 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.27",
@@ -14,6 +15,8 @@
     "bootstrap": "^4.4.1",
     "bootstrap-vue": "^2.5.0",
     "core-js": "^3.6.4",
+    "homapage": "https://github.com/patrickvirtanen/personalWebsite",
+    "gh-pages": "^2.2.0",
     "vue": "^2.6.11"
   },
   "devDependencies": {
