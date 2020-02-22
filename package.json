@@ -15,7 +15,7 @@
     "bootstrap": "^4.4.1",
     "bootstrap-vue": "^2.5.0",
     "core-js": "^3.6.4",
-    "homapage": "https://github.com/patrickvirtanen/personalWebsite",
+    "homapage": "https://github.com/patrickvirtanen/personal-website",
     "gh-pages": "^2.2.0",
     "vue": "^2.6.11"
   },
